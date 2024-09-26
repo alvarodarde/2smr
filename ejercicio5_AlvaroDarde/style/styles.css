@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+}
+h1{
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.1em;
+}
+h2{
+    font-size: 2em;
+    text-decoration: underline;
+}
+.clase2{
+    color:white;
+    background-color: darkblue;
+}

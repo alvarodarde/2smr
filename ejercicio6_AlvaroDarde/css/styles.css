@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: white; 
+    background-color: #01befe; 
+    margin: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.article{
+    color: black; 
+    background-color: white; 
+    text-align: justify; 
+    border-style: solid;
+    border-color: #019cd4;
+    border-width: 5px;
+    border-radius: 25px;
+    padding: 25px; 
+}
+
+.image{
+    background-color: #019cd4; 
+    text-align: center; 
+    border-style: solid; 
+    border-color: white; 
+    border-width: 5px;
+    border-radius: 25px; 
+    padding: 10px;
+}
